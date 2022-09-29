@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422697854195",
+    "project_id": "expertsystem-7c788",
+    "storage_bucket": "expertsystem-7c788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422697854195:android:61d9e12cd5e3f6ebb78386",
+        "android_client_info": {
+          "package_name": "com.example.uzmansistem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422697854195-vqaindnk7vs3287va153i4dhb3j25qsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uzmansistem",
+            "certificate_hash": "30909f3ec7fb9f46abb039b9842c4ad507464a8b"
+          }
+        },
+        {
+          "client_id": "422697854195-at5uku4g782fj6nntu82asr9udqv8f26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8qhCW6MyIUDKduOaELJT2IIgZPLnTmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422697854195-at5uku4g782fj6nntu82asr9udqv8f26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
