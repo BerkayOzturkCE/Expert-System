@@ -43,7 +43,10 @@ class _ShowDeviceState extends State<ShowDevice> {
           color: Colors.white,
           height: 0,
         ),
-        SizedBox()
+        SizedBox(
+          height: 0,
+          width: 0,
+        )
       ],
     );
   }
